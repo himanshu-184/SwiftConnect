@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090130554450",
+    "project_id": "swiftconnect-e2e14",
+    "storage_bucket": "swiftconnect-e2e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090130554450:android:858fdc5a8dcd56979fb98b",
+        "android_client_info": {
+          "package_name": "com.example.swiftconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhr1fFw_xeMf6PPjlTGiW7gnsGmvLHS70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
